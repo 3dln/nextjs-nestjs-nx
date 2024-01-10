@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import {add} from "@foundation/sample-lib"
+import Image from 'next/image';
+import { add } from '@foundation/sample-lib';
 
 export default function Home() {
   return (
@@ -110,5 +110,5 @@ export default function Home() {
         </a>
       </div>
     </main>
-  )
+  );
 }
